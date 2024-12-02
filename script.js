@@ -22,5 +22,5 @@ const template = `
 `;
 
 // Render Template and Update #app Content
-const app = document.getElementById('app');
-app.innerHTML = renderTemplate(template, data);
+// const app = document.getElementById('app');
+// app.innerHTML = renderTemplate(template, data);
